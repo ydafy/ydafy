@@ -7,10 +7,6 @@
 Building real-world mobile products with
 **React Native · Expo · TypeScript**
 
-<br><br>
-
-[LinkedIn](www.linkedin.com/in/alvaro-estrada-dev) · [Projects](https://github.com/ydafy)
-
 </div>
 
 ---
