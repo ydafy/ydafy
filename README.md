@@ -64,28 +64,6 @@ Building real-world mobile products with
 
 ---
 
-## `> FEATURED PROJECTS`
-
-### `SELENE.EXE`
-
-**P2P Marketplace for Used PC Hardware**
-
-A P2P marketplace for buying and selling used PC hardware in Mexico, built from the ground up as a real product.
-
-The platform includes product verification, multi-seller orders, payments, shipping, seller payouts, disputes, and centralized marketplace operations.
-
-**React Native · Expo · TypeScript · Supabase · PostgreSQL · React · Vite**
-
----
-
-## `> ABOUT`
-
-My main passion is taking ideas from concept to reality and turning them into apps. I do this not only by writing code but also by thoroughly analyzing the project and the core concept—contributing and discussing ideas, and solving the day-to-day challenges inherent in any project.
-
-My primary focus is the user; my mission is to build an impeccable UI/UX so that users enjoy the app and appreciate what makes an app truly great: being beautiful, functional, and easy to use.
-
----
-
 ## `> CURRENTLY BUILDING`
 
 ```text
@@ -121,7 +99,7 @@ Primary  : React Native + Expo
 
 ### Let's solve the problems.
 
-[LinkedIn](www.linkedin.com/in/alvaro-estrada-dev) · [GitHub](https://github.com/ydafy)
+[GitHub](https://github.com/ydafy)
 
 <br>
 
